@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil
-- 👀 I’m interested in learning latest technologies around the globe 
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 👀 I’m interested in learning latest technologies.
+- 🌱 I’m currently learning HTML,CSS,Javascript,React JS, Redux.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me 
 
